@@ -1,5 +1,13 @@
 # Unit 1 - ReviewTheory
-- BedmasAndCasting
-- MathClassAndShortcunts
-- ObjectExample
-- VariablesReview
+
+Part 1:
+  - BedmasAndCasting
+  - MathClassAndShortcunts
+  - ObjectExample
+  - VariablesReview
+  
+Part 2:
+  - IfReview
+  - LoopReview
+  - MovieTicket
+  - PopulationGrowth
