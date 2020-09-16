@@ -1,4 +1,4 @@
-# ICS4U-ReviewTheory
+# Unit 1 - ReviewTheory
 - BedmasAndCasting
 - MathClassAndShortcunts
 - ObjectExample
